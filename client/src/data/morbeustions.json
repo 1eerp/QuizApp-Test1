@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "question": "How often do you beat your wife?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "often", 
+                "points": [5,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "which one", 
+                "points": [0,3,0]
+            },
+            {
+                "aid": 3,
+                "content": "never", 
+                "points": [0,-2,0]
+            },
+            {
+                "aid": 4,
+                "content": "i the one who get beat", 
+                "points": [-3,0,0]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What role do you main",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "support", 
+                "points": [-4,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "fill", 
+                "points": [4,0,0]
+            },
+            {
+                "aid": 3,
+                "content": "only submissive and breedable champions like lillia", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 4,
+                "content": "shaco/singed/sion", 
+                "points": [0,0,6]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "How many b*tches?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "none", 
+                "points": [0,-5,0]
+            },
+            {
+                "aid": 2,
+                "content": "2 wives", 
+                "points": [4,0,0]
+            },
+            {
+                "aid": 3,
+                "content": "as many as i feel like", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 4,
+                "content": "i am b*itch", 
+                "points": [-4,0,0]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "why",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "because i feel like it", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 2,
+                "content": "its the right thing to do", 
+                "points": [0,-3,0]
+            },
+            {
+                "aid": 3,
+                "content": "the voices told me", 
+                "points": [0,0,4]
+            },
+            {
+                "aid": 4,
+                "content": "cause i am indentured servant to e girl", 
+                "points": [-6,0,0]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What have you lost",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "only virginity", 
+                "points": [-6,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "my c*m", 
+                "points": [0,-5,0]
+            },
+            {
+                "aid": 3,
+                "content": "$30,020,000", 
+                "points": [4,0,0]
+            },
+            {
+                "aid": 4,
+                "content": "i never lose", 
+                "points": [0,7,0]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "How often do you browse reddit?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "less than 30 min", 
+                "points": [-5,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "more than 30 min", 
+                "points": [0,-4,0]
+            },
+            {
+                "aid": 3,
+                "content": "i prefer 4chan", 
+                "points": [0,0,6]
+            },
+            {
+                "aid": 4,
+                "content": "wtf is reddit", 
+                "points": [0,4,0]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "How much do you weigh?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "<120", 
+                "points": [-4,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "200 of pure beef", 
+                "points": [5,0,0]
+            },
+            {
+                "aid": 3,
+                "content": "morbidly obese", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 4,
+                "content": "40 an hour", 
+                "points": [0,-1,0]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "what is your weapon of choice?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "broom to mop", 
+                "points": [5,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "magnum dong", 
+                "points": [0,3,0]
+            },
+            {
+                "aid": 3,
+                "content": "nightmares", 
+                "points": [0,0,3]
+            },
+            {
+                "aid": 4,
+                "content": "awp", 
+                "points": [0,-3,0]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Are you rich?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "in character", 
+                "points": [0,-5,0]
+            },
+            {
+                "aid": 2,
+                "content": "yes", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 3,
+                "content": "i am homless", 
+                "points": [3,0,0]
+            },
+            {
+                "aid": 4,
+                "content": "i am middle class", 
+                "points": [-4,0,0]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What is your main priority?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "secure the bag", 
+                "points": [5,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "the harvest", 
+                "points": [0,3,0]
+            },
+            {
+                "aid": 3,
+                "content": "get seggs", 
+                "points": [-2,0,0]
+            },
+            {
+                "aid": 4,
+                "content": "the grindset", 
+                "points": [0,-3,0]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Scared?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "yes", 
+                "points": [0,-3,0]
+            },
+            {
+                "aid": 2,
+                "content": "no", 
+                "points": [0,3,0]
+            },
+            {
+                "aid": 3,
+                "content": "maybe", 
+                "points": [3,0,0]
+            },
+            {
+                "aid": 4,
+                "content": "madge", 
+                "points": [-3,0,0]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Mad?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "yes", 
+                "points": [0,-3,0]
+            },
+            {
+                "aid": 2,
+                "content": "no", 
+                "points": [2,0,0]
+            },
+            {
+                "aid": 3,
+                "content": "%i:", 
+                "points": [0,5,0]
+            },
+            {
+                "aid": 4,
+                "content": "madge", 
+                "points": [-3,0,0]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What tallents do you posess?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "I can fit a jar", 
+                "points": [-4,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "magic trick", 
+                "points": [0,0,2]
+            },
+            {
+                "aid": 3,
+                "content": "I'm a predator", 
+                "points": [0,-4,0]
+            },
+            {
+                "aid": 4,
+                "content": "ligma jokes", 
+                "points": [0,3,0]
+            }
+        ]
+    }
+]
