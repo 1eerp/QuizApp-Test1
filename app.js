@@ -12,7 +12,7 @@ app.use(cors())
 .get('/', (req, res) =>{
     res.sendFile(path.resolve(__dirname, "client", "build", "index.html"))
 })
-.get('/', (res, req)=>{
+.get('/*', (res, req)=>{
     res.send(cool());
 })
 .listen(port, ()=>{
