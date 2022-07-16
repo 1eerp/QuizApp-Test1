@@ -1,11 +1,11 @@
-import chad from '../images/chad.png';
+import logo from '../images/logo.png';
 import HamburgerMenu from './mobile/HamburgerMenu';
 
 export default function NavBar(props){
     return (
         <nav className="nav">
             <div className="nav-logo-items">
-                <img src={chad} className="nav-logo" alt="lo and behold, its gigachad"/>
+                <img src={logo} className="nav-logo" alt="crosshair/coordinate-plane styled logo"/>
                 <h1 className="nav-title">{props.title}</h1>
             </div>
             <HamburgerMenu/>

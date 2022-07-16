@@ -12,9 +12,12 @@ app.use(cors())
 .get('/cool', (req, res)=>{
     res.send(cool());
 })
-.get('*', (req, res) =>{
-    res.sendFile(path.resolve(__dirname, "client", "build", "index.html"))
+.get('/', (req, res) =>{
+    res.sendFile(path.resolve(__dirname, "client", "build", "index.html"));
+})
+.get('/', (req, res)=>{
+    res.sendFile(path.resolve(__dirname, "client", "build", "index.html"));
 })
 .listen(port, ()=>{
-    console.log('Listening on port 5000...')
+    console.log('Listening on port 5000...');
 });

@@ -1,10 +1,11 @@
-import data from "./morbeustions.json" 
+import data from "./example.json" 
 
 let test = {
-    title: "BASED TEST",
-    descripton: "This test intends to test how based and morbius pilled you are",
+    title: "Exapmle Alignment Test",
+    descripton: "Alignment Test with a few questions",
+    testType: "alignment",
     questions: data,
-    alignmentChar: "ඞ"
+    alignmentChar: ""
 }
 function shuffle(array) {
     let currentIndex = array.length,  randomIndex;
@@ -18,7 +19,6 @@ function shuffle(array) {
         [array[currentIndex], array[randomIndex]] = [
         array[randomIndex], array[currentIndex]];
     }
-
     return array;
 }
 test.questions = shuffle(test.questions);

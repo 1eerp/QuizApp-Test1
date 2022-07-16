@@ -6,7 +6,7 @@ import './index.css'
 export default function App(){
     return(
         <>
-            <Header title="Based Calculator"/>
+            <Header title="Alignment Tests"/>
             <MainContent/>
             <Footer/>
         </>

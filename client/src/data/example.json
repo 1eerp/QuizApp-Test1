@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "question": "How many hours have you spent on your PC today",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "Just got on", 
+                "points": [5,0,0]
+            },
+            {
+                "aid": 2,
+                "content": "Didn't count", 
+                "points": [-5,0,0]
+            },
+            {
+                "aid": 3,
+                "content": "< 1", 
+                "points": [7,1,0]
+            },
+            {
+                "aid": 4,
+                "content": "24", 
+                "points": [-6,-5,0]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Do you feel tired?",
+        "type": "mc",
+        "choices": [
+            {
+                "aid": 1,
+                "content": "Yes", 
+                "points": [-7,-2,0]
+            },
+            {
+                "aid": 2,
+                "content": "No", 
+                "points": [5,0,0]
+            }
+        ]
+    }
+]
