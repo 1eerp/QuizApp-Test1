@@ -2,7 +2,7 @@ import data from "./example.json"
 
 let test = {
     title: "Exapmle Alignment Test",
-    descripton: "Alignment Test with a few questions",
+    descripton: "Alignment Test with a few questions\nNote: App UI in Development",
     testType: "alignment",
     questions: data,
     alignmentChar: ""
